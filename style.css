@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(193, 197, 201);
+}
+
+.col{
+    padding-top: 20px;
+    font-size: 1.5em;
+    font-weight: bold;
+    border: 3px solid black;
+    margin: 10px 10px 50px 0px ;
+    text-align: center;
+    height: 100px;
+    padding-top: 25px;
+    border-radius: 60px;
+    box-shadow: 1px 5px 6px 1px #000;
+    background-color: rgb(107, 243, 243);
+}
+.d-flex{
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    align-items: center;
+    margin: 20px auto;
+    
+}
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    color: rgb(224, 16, 85);
+    text-decoration: underline;
+}
+
+.navbar-brand{
+    text-align: center;
+}
